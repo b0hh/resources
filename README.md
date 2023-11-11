@@ -1,7 +1,7 @@
 # Resources
 
 - [How to build your own x](https://github.com/codecrafters-io/build-your-own-x)
-- [How to build your own x (a bit cleaner version)]([https://github.com/codecrafters-io/build-your-own-x](https://build-your-own-x.vercel.app/))
+- [How to build your own x (a bit cleaner version)](https://build-your-own-x.vercel.app)
 
 # 💻 Computer Science Books
 -  <font size=3>Data Communications and Networking</font>
@@ -14,6 +14,7 @@
 # 💻 Computer Science Resources
 - <font size=3>[Software Construction 6.005 - MIT](https://web.mit.edu/6.005/www/fa15/)</font>
 - <font size=3>[Software Construction 6.031 - MIT](https://web.mit.edu/6.031/www/sp22/)</font>
+- <font size=3>[Build Your Own (Redis,Database,Web Server,Compiler,Interpreter,Regex Engine)](https://build-your-own.org/)</font>
 
 # 💽 Database Resources
 - <font size=2> [How PostgreSQL Works(Inside of PostgreSQL)](https://www.interdb.jp/pg/index.html) </font>
