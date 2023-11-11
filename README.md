@@ -1,6 +1,7 @@
 # Resources
 
 - [How to build your own x](https://github.com/codecrafters-io/build-your-own-x)
+- [How to build your own x (a bit cleaner version)]([https://github.com/codecrafters-io/build-your-own-x](https://build-your-own-x.vercel.app/))
 
 # 💻 Computer Science Books
 -  <font size=3>Data Communications and Networking</font>
