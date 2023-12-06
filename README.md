@@ -30,7 +30,7 @@
 - <font size=3>[Beej's Guide For Network Programming](https://beej.us/guide/bgnet/)</font>
 - <font size=3>[TCPware 6.1 Programmer's Guide](https://www.process.com/docs/tcpware6_1/programmer/)</font>
 - <font size=3>[High Performance Browser Networking © ILYA GRIGORIK](https://hpbn.co/)</font>
-# 🖥️ Distributed Systems Resources
+# ↔️ Distributed Systems Resources
 # 🖇️ Data Structures and Algorithms
 - <font size=3>[B-Tree](https://eatonphil.com/btrees.html)</font>
 
