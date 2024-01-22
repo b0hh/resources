@@ -33,6 +33,6 @@
 # ↔️ Distributed Systems Resources
 # 🖇️ Data Structures and Algorithms
 - <font size=3>[B-Tree](https://eatonphil.com/btrees.html)</font>
-- <font size=3>[OpenDSA](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/index.html)https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/index.html)</font>
+- <font size=3>[OpenDSA](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/index.html)</font>
 
 
