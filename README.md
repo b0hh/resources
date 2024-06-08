@@ -36,5 +36,6 @@
 # 🖇️ Data Structures and Algorithms
 - <font size=3>[B-Tree](https://eatonphil.com/btrees.html)</font>
 - <font size=3>[OpenDSA](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/index.html)</font>
-
-
+# Math
+- <font size=3>[Everything You Always Wanted To
+Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)</font>
