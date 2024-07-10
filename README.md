@@ -40,3 +40,6 @@
 # Math
 - <font size=3>[Everything You Always Wanted To
 Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)</font>
+
+# Startup Ideas
+- <font size=3> Make an OS which fully integrated with vine so it can be install all apps and make it lightweight for embeded devices </font>
