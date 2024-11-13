@@ -42,4 +42,4 @@
 Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)</font>
 
 # Startup Ideas
-- <font size=3> Make an OS which fully integrated with vine so it can be install all apps and make it lightweight for embeded devices </font>
+- <font size=3> Make an OS which is fully integrated with wine so it can be run most windows based apps and make it lightweight for embeded devices </font>
