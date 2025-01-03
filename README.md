@@ -41,5 +41,5 @@
 - <font size=3>[Everything You Always Wanted To
 Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)</font>
 
-# Startup Ideas
-- <font size=3> Make an OS which is fully integrated with wine so it can be run most windows based apps and make it lightweight for embeded devices </font>
+#Ideas
+- <font size=3> Make an OS which is fully integrated with wine so it can be run most windows based apps. Make it lightweight for embeded devices (mostly for EV) </font>
